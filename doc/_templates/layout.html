@@ -1,0 +1,27 @@
+{% extends "!layout.html" %}
+  {% block footer %} {{ super() }}
+
+  <style>
+    /* Sidebar */
+    .wy-nav-side {
+      /*width:0px;*/
+    }
+    .wy-side-scroll {
+      /*width:0px;*/
+    }
+    .wy-breadcrumbs {
+      visibility: hidden;
+    }
+    /*
+    [role=search] {
+    visibility: hidden;
+    }
+    [role=navigation] {
+    visibility: hidden;
+    }
+    */
+    h1 {
+    font-size:350%;
+    }
+  </style>
+{% endblock %}
