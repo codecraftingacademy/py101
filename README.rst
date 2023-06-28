@@ -4,7 +4,10 @@
 Python Programming 101
 ======================
 
-An introduction to computer programming using Python.
+An Introduction to Computer Programming Using Python
+====================================================
+
+**UNDER CONSTRUCTION**
 
 This is a `Code Crafting Academy`_ course.  The `documentation`_ is
 hosted on `Read the Docs`_ and the `source code`_ can be found on
