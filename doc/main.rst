@@ -102,12 +102,9 @@ Set up VSCode for Python Development
 - Choose ``Install`` for the ``Python`` extension from Microsoft and wait
   for it to finish installing.
 
-- Now click the little gear icon (aka ``Manage``) next to the Python
-  extension and then click on ``Extension Settings``.
-
-- Scroll down to find the ``Python->Terminal: Activate Environment``
-  setting and uncheck the associated box.
-
+- Now choose the ``View->Command Palette`` menu option, type
+  ``Terminal: Select Default Profile`` in the search box, and then
+  choose ``Command Prompt``.
 
 - Now click the pages icon (aka ``Explorer``) in the top-left corner
   and then click on the ``Open Folder`` button.
@@ -151,3 +148,10 @@ Set up VSCode for Python Development
 - If you've gotten this far, then congratulations -- you have
   successfully written and run your first Python program.
   
+..
+  - Now click the little gear icon (aka ``Manage``) next to the Python
+    extension and then click on ``Extension Settings``.
+
+  - Scroll down to find the ``Python->Terminal: Activate Environment``
+    setting and uncheck the associated box.
+
