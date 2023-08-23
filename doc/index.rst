@@ -7,8 +7,15 @@
   :start-after: sphinx-include-summary-start
   :end-before: sphinx-include-summary-end
 
-.. toctree::
-   :hidden:
-   :maxdepth: 2
+Status
+======
 
-   main
+This project is a work in progress.  Please check back for updates.
+
+Lessons
+=======
+
+.. toctree::
+   :maxdepth: 1
+
+   lesson0
